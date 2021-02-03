@@ -1,0 +1,7 @@
+C:\Curso C# SENAI\UsoDeColecoes\bin\Debug\UsoDeColecoes.exe.config
+C:\Curso C# SENAI\UsoDeColecoes\bin\Debug\UsoDeColecoes.exe
+C:\Curso C# SENAI\UsoDeColecoes\bin\Debug\UsoDeColecoes.pdb
+C:\Curso C# SENAI\UsoDeColecoes\obj\Debug\UsoDeColecoes.csprojAssemblyReference.cache
+C:\Curso C# SENAI\UsoDeColecoes\obj\Debug\UsoDeColecoes.csproj.CoreCompileInputs.cache
+C:\Curso C# SENAI\UsoDeColecoes\obj\Debug\UsoDeColecoes.exe
+C:\Curso C# SENAI\UsoDeColecoes\obj\Debug\UsoDeColecoes.pdb
